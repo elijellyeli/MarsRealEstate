@@ -20,6 +20,6 @@ adapters, and [Navigation](https://developer.android.com/topic/libraries/archite
 with the SafeArgs plugin for parameter passing between fragments.
 
 
-![Screen #1](screenshots/mars1.jpg)
+![Screen #1](screenshots/Mars1.jpg)
 ![Screen #2](screenshots/mars2.jpg)
 ![Screen #3](screenshots/mars3.jpg)
