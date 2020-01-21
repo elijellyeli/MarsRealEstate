@@ -18,3 +18,8 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 [Data Binding](https://developer.android.com/topic/libraries/data-binding/) with binding 
 adapters, and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/) 
 with the SafeArgs plugin for parameter passing between fragments.
+
+
+![Screen #1](screenshots/mars1.jpg)
+![Screen #2](screenshots/mars2.jpg)
+![Screen #3](screenshots/mars3.jpg)
